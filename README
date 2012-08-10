@@ -1,0 +1,37 @@
+﻿========= EN =========
+
+Modifications of stock FlashUI's for Cowon C2 player
+* Music UI
+* Main menu UI
+* Launcher (non-visual service applet)
+
+For list of improvements, see .\!release\* read me.txt
+For build instructions, see .\BUILD
+
+Repo contains decompiled *.swf files (*.fla) and separate code (*.as)
+
+Use as you wish and don't forget to thank Cowon for wonderful player
+
+!!!
+Developing is abandoned because of interest loss.
+Don't waste your time with issue reporting and feature requesting
+!!!
+
+========= RU =========
+
+Моды стандартного FlashUI's для плейера Cowon C2
+* Проигрыватель UI
+* Главное меню UI
+* Лончер (невизуальный служебный апплет)
+
+Список улучшений читайте в файлах .\!release\* read me.txt
+Инструкции по сборке читайте в файле .\BUILD
+
+Репо содержит декомпилированные *.swf файлы (*.fla) и отдельно код к ним (*.as)
+
+Используйте как пожелаете и не забывайте возносить хвалу Cowon за отличный плейер
+
+!!!
+Разработка прекращена по причине потери интереса.
+Не тратьте время на сообщения о глюках и запросы о фичах
+!!!

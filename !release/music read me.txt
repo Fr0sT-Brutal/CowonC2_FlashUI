@@ -1,0 +1,32 @@
+Modification of the original Music UI.
+Author: Fr0sT
+Current version — 0.12
+
+This is beta — bugs are possible! Nevertheless it's just a flash application, nothing serious should happen.
+
+Changes:
+
+* Cover rotation on playback disabled (but remained on track change)
+* Infobar (upper bar where volume, battery etc are) enlarged. Labels are drawn as text not as images (sharper). Borders rounded. Images taken from main menu.
+* Artist label enlarged
+* Current time/total time labels are drawn as text (sharper and larger; hour part is ignored if zero)
+* Controls and progress-bar from the "red screen" moved to the main screen (no excess tap to get them shown). "Red screen" is removed.
+* "Tools" button added, shows "Blue screen"
+* Progress-bar slider could be moved when paused
+* Current time label shows minus when the mode is "Time remain". Tabable; changes the mode on tap and saves it to the player settings.
+* Autoresume - start playback on application start (if set in settings). The feature that for some reason has been underimplemented by Cowon.
+* Current track deletion (from Tools menu). Confirmation popup contains track file name in the message
+* Popups improved
+* Full info about current track (bitrate, codec, filename, etc)
+* "Current track # / Total tracks" label and progress-bar on "blue screen" are removed
+* Visual updates optimized, no more updates of currently invisible layers
+
+Installation
+ Put the music.swf into {player}/System/Flash UI folder.
+
+Uninstallation
+ Remove the music.swf file (or simply rename it to, for instance, music_1.swf)
+ 
+Links:
+ http://iaudiophile.net/forums/showthread.php?t=39908 (english)
+ http://cowonworld.ru/forum/viewtopic.php?f=66&t=5068 (russian)

@@ -1,0 +1,19 @@
+Modification of the original Launcher Flash application (not UI).
+Author: Fr0sT
+Current version — 0.2
+
+This is beta — bugs are possible! Nevertheless it's just a flash application, nothing serious should happen.
+
+Changes:
+
+* Resume mode working! Launches last used application on startup.
+
+Installation
+ Put the launcher.swf into {player}/System/Flash UI folder.
+
+Uninstallation
+ Remove the launcher.swf file (or simply rename it to, for instance, launcher_1.swf)
+ 
+Links:
+ http://cowonworld.ru/forum/viewtopic.php?f=66&t=5213 (russian)
+ http://iaudiophile.net/forums/showthread.php?t=40061 (english)

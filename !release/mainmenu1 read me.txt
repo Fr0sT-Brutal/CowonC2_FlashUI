@@ -1,0 +1,21 @@
+Modification of the original Main menu UI.
+Author: Fr0sT
+Current version — 0.4
+
+This is beta — bugs are possible! Nevertheless it's just a flash application, nothing serious should happen.
+
+Changes:
+
+* You can change wallpapers, 5 images in the set
+* Icon labels are drawn as text not as graphic
+* Confirmation popup changed
+
+Installation
+ Put the mainmenu1.swf into {player}/System/Flash UI folder.
+
+Uninstallation
+ Remove the mainmenu1.swf file (or simply rename it to, for instance, mainmenu1_1.swf)
+ 
+Links:
+ http://iaudiophile.net/forums/showthread.php?t=39995 (english)
+ http://cowonworld.ru/forum/viewtopic.php?f=66&t=5182 (russian)
